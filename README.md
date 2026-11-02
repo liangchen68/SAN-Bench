@@ -46,3 +46,7 @@ The Scope of Not: Benchmarking and Enhancing Vision-Language Models for Fine-Gra
    - download images from [COCO_2017](https://cocodataset.org/#download)
    - change the image path when load ''coco2017_fine-tuning.csv''
 
+
+## SAN-CLIP
+model weights: https://huggingface.co/LiangHello/SAN-CLIP
+
