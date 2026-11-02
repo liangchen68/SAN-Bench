@@ -1,3 +1,19 @@
+## Overview
+
+The official implementation of our paper: 
+The Scope of Not: Benchmarking and Enhancing Vision-Language Models for Fine-Grained Negation Understanding
+
+
+<p align="center">
+  <img src="assets/main.png" width="90%">
+</p>
+
+<p align="center">
+  <em>Figure 1. Overview of our proposed framework.</em>
+</p>
+
+
+
 ## Code Structure
 
 ### 1. trains/
